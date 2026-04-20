@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4cc665c6-8fa1-44db-9e95-86f3b67349b0}</ProjectGuid>
-    <RootNamespace>labone</RootNamespace>
+    <ProjectGuid>{d1fde1a1-ecbd-4ec7-a4b8-b2f3b8970a99}</ProjectGuid>
+    <RootNamespace>secondlab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="labone.cpp" />
+    <ClCompile Include="secondlab.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="Teacher.cpp" />
   </ItemGroup>
